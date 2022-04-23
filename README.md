@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OctavianCahyadi
-- 👀 I’m interested in Java Developer and Dev Ops
-- 🌱 I’m currently learning Docker Server and K8s Production
+- 👀 I’m interested in Java Developer and DevOps
+- 🌱 I’m currently learning Docker Server and K8s
 - 💞️ I’m looking to collaborate on Spring Boot project
 - 📫 How to reach me octaviancahyadi@gmail.com
 
