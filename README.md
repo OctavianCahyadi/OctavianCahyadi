@@ -6,7 +6,7 @@ Software Engineer
 
 - 🌍 I'm based in Indonesia
 - 👀 I’m interested in Java Developer and DevOps
-- 🌱 I’m currently learning Docker Server and K8s
+- 🌱 I’m currently learning Docker Swarm and K8s
 - 💞️ I’m looking to collaborate on Spring Boot project
 - 📫 How to reach me octaviancahyadi@gmail.com
 
