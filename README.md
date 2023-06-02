@@ -1,7 +1,10 @@
-Hi 👋 My name is Anggun Dwi Cahyadi
-===================================
+<p align="center">
+  <h2 align="center"> Hi👋 </h2>
+  <h1 align="center">My name is Anggun Dwi Cahyadi</h1>
+  <h3 align="center">Software Engineer</h3>
+</p>
 
-Software Engineer
+
 -----------------
 
 - 🌍 I'm based in Indonesia
