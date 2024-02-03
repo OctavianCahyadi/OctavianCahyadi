@@ -7,11 +7,11 @@
 
 -----------------
 
-- 🌍 I'm based in Indonesia
-- 👀 I’m interested in Java Developer and DevOps
-- 🌱 I’m currently learning Docker Swarm and K8s
-- 💞️ I’m looking to collaborate on Spring Boot project
-- 📫 How to reach me octaviancahyadi@gmail.com
+- 🌍 Based in Indonesia
+- 👀 Interested in Java Developer and DevOps
+- 🌱 Currently learning Docker Swarm and K8s
+- 💞️ Looking to collaborate on Spring Boot project
+- 📫 Email me octaviancahyadi@gmail.com
 
 # Programing Languages
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
